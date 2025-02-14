@@ -142,6 +142,7 @@ article > section:nth-child(1) {
 	text-align: center;
 	color: rgb(141, 207, 238);
 	text-shadow: 5px 3px 0 #000;
+	animation: float 6s ease-in-out infinite;
 }
 /*seccion 2*/
 
